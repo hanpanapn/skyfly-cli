@@ -2,5 +2,5 @@
 Using webpack to quickly initialize a project
 ## Install
 `npm install skyfly`
-## How to user
+## How to use
 `skyfly new`
